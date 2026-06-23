@@ -30,7 +30,7 @@ To sustain growth and maximize content ROI, Netflix must continuously answer cri
 * Which genres and regions drive content growth?
 * How can Netflix strengthen its global content strategy?
 
-Using Netflix's content catalog, this analysis aims to generate actionable insights that support strategic content and expansion decisions.
+Using Netflix's content catalog, this analysis aims to generate actionable insights that support strategic content  deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
 ---
 

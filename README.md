@@ -2,7 +2,17 @@
 
 ### End-to-End Analysis of Netflix's Global Content Portfolio Using Python & Exploratory Data Analysis (EDA)
 
-This project analyzes Netflix's global catalog of Movies and TV Shows to uncover content trends, audience preferences, and regional growth opportunities. The objective is to provide data-driven recommendations that can help Netflix optimize content investments and expand its presence across international markets.
+This project analyzes Netflix's global catalog of Movies and TV Shows to uncover content trends, audience preferences, and regional growth opportunities. The objective is to provide data-driven recommendations that can help Netflix optimize content investments, strengthen viewer engagement, and expand its presence across international markets.
+
+---
+
+## 📄 Project Deliverables
+
+| Resource                                                                    | Description                                                                     |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 📓 [Jupyter Notebook](./notebooks/netflix_content_strategy_analysis.ipynb)  | Complete analysis, code, visualizations, insights, and recommendations          |
+| 📑 [Analysis Report (PDF)](./reports/Netflix_Content_Strategy_Analysis.pdf) | Detailed report with findings, business insights, and strategic recommendations |
+| 📊 [Dataset](./data/netflix.csv)                                            | Netflix content catalog dataset used for the analysis                           |
 
 ---
 
@@ -10,7 +20,7 @@ This project analyzes Netflix's global catalog of Movies and TV Shows to uncover
 
 Netflix is one of the world's leading streaming platforms, serving over 220 million subscribers globally.
 
-The company must continuously decide:
+To sustain growth and maximize content ROI, Netflix must continuously answer critical strategic questions:
 
 * What type of content should be produced?
 * Which markets deserve additional investment?
@@ -82,7 +92,7 @@ The dataset contains information on **8,807 Netflix titles**, including:
 * Missing value assessment
 * Date transformation
 * Unnesting multi-valued columns
-* Country, Cast, Director and Genre normalization
+* Country, Cast, Director, and Genre normalization
 
 ### 3. Exploratory Data Analysis
 
@@ -125,6 +135,18 @@ The dataset contains information on **8,807 Netflix titles**, including:
 * Drama-related content dominates the platform.
 * Certain regions exhibit strong preferences for localized content.
 * Genre distribution varies significantly across countries.
+
+---
+
+## 🎯 Business Impact
+
+This analysis provides a structured framework for content investment and market expansion decisions by:
+
+* Identifying high-performing content formats.
+* Highlighting regions with strong content production potential.
+* Revealing long-term shifts in audience preferences.
+* Supporting data-driven content acquisition and production planning.
+* Reducing reliance on intuition-based content investment decisions.
 
 ---
 
@@ -188,5 +210,4 @@ netflix-content-strategy-analysis/
 
 **Richa Jain**
 
-Aspiring Data Analyst focused on transforming data into actionable business insights through analytics, visualization, and strategic decision-making.
-
+Data Analyst focused on transforming raw data into actionable business insights through analytics, visualization, and strategic decision-making.

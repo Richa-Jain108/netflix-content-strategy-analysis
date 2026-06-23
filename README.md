@@ -48,6 +48,12 @@ The analysis focuses on answering the following business questions:
 * Which regions present opportunities for future expansion?
 
 ---
+## Dataset Source
+
+The dataset used in this project was provided as part of a Netflix content analytics case study and contains information on Netflix Movies and TV Shows, including content type, country, cast, directors, release year, ratings, duration, and genres.
+
+🔗 **Original Dataset:** [Netflix Dataset](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv)
+
 
 ## 📊 Dataset Overview
 

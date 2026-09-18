@@ -10,9 +10,9 @@ This project analyzes Netflix's global catalog of Movies and TV Shows to uncover
 
 | Resource                                                                    | Description                                                                     |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 📓 [Jupyter Notebook](./notebooks/netflix_content_strategy_analysis.ipynb)  | Complete analysis, code, visualizations, insights, and recommendations          |
 | 📑 [Analysis Report (PDF)](./reports/Netflix_Content_Strategy_Analysis.pdf) | Detailed report with findings, business insights, and strategic recommendations |
 | 📊 [Dataset](./data/netflix.csv)                                            | Netflix content catalog dataset used for the analysis                           |
+
 
 ---
 
